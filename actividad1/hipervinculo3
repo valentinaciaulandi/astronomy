@@ -2,7 +2,7 @@
 	<h2>Informacion:</h2>
 	<p>La película explora nuevas alturas y profundidades con el regreso del director James Cameron al emocionante mundo de Pandora. Una década después de la primera entrega, se escribe otro capítulo en la historia de la familia Sully (Jake, Neytiri y sus hijos) entre desafíos, batallas y tragedias que enfrentan para seguir con vida. Nuevas culturas na'vi y diversas criaturas exóticas entran en acción con los impresionantes paisajes marinos de fondo, y todo es emoción y aventura. La precuela ganadora de varios premios Óscar (incluido mejor película) revolucionó la industria de los efectos visuales y se convirtió en la tercera película de mayor recaudación de la historia en todo el mundo. La productora Lightstorm Entertainment de James Cameron y su socio Jon Landau presenta el renombrado elenco de Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Cliff Curtis y Kate Winslet, acompañado por los nuevos talentos de Britain Dalton, Jamie Flatters, Trinity Jo-Li Bliss, Bailey Bass y Jack Champion.</p>
 	<br>
-	<a href="index.html">DIRIGIRSE A: Los Juegos del Hambre</a>
+	<a href="./actividad1/index.html">DIRIGIRSE A: Los Juegos del Hambre</a>
 	<br>
-	<a href="hipervinculo2.html">DIRIGIRSE A: Harry Potter Y El Prisionero de Azkaban</a>
+	<a href="./actividad1/hipervinculo2.html">DIRIGIRSE A: Harry Potter Y El Prisionero de Azkaban</a>
 </body>
